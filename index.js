@@ -17,8 +17,8 @@ if(targetList[0] == "node"){
 targetList.shift();
 
 if(targetList.length <= 0){
-	console.log("useage : bugfree fileA [fileB [fileC]..]");
-	console.log("useage : bugfree dirName");
+	console.log("useage : lovenote fileA [fileB [fileC]..]");
+	console.log("useage : lovenote dirName");
 	process.exit(0);
 }
 
