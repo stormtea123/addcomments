@@ -8,7 +8,7 @@ var config = require("./config.json"),
 
 var commentContent         = fs.readFileSync(path.join(__dirname,"comment_default.txt"),{encoding:"utf8"});
 var commentContent_forUTF8 = fs.readFileSync(path.join(__dirname,"comment_default_utf8.txt"),{encoding:"utf8"});
-console.log("commet template is at :" + __dirname + "\r\njust rewrite it as you wish\r\n");
+console.log("comment template is at :" + __dirname + "\r\njust rewrite it as you wish\r\n");
 
 var targetList = process.argv;
 if(targetList[0] == "node"){
@@ -17,8 +17,8 @@ if(targetList[0] == "node"){
 targetList.shift();
 
 if(targetList.length <= 0){
-	console.log("useage : bugfree fileA [fileB [fileC]..]");
-	console.log("useage : bugfree dirName");
+	console.log("usage : loveNote fileA [fileB [fileC]..]");
+	console.log("usage : loveNote dirName");
 	process.exit(0);
 }
 
@@ -26,17 +26,17 @@ for(var i = 0 ; i < targetList.length ; i++){
 	var target = targetList[i],
 		stat   = fs.statSync(target);
 	if(stat.isFile()){
-		mathcRuleForFile(target);
+		matchRuleForFile(target);
 	}
 	if(stat.isDirectory()){
 		var list = fs.readdirSync(target);
 		list.forEach(function(item){
-			mathcRuleForFile(path.join(target,item));
+			matchRuleForFile(path.join(target,item));
 		});
 	}
 }
 
-function mathcRuleForFile(filePath){
+function matchRuleForFile(filePath){
 
 	//traverse rules
 	for (var i = 0 ; i < config.length ; i++){
