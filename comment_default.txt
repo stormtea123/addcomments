@@ -1,52 +1,6 @@
-
-
--~~~---'''''-~(<<+sDBNNNNNNNNNNNNNNNNNNNNNNz<((<+++++++<++<<
-~~~~~--'''''-~(<+szDNNNNNNNNNNNNNNNNNNNNNNNBz+<++++++++++++<
-~~~~---''-'--~(<sDDBNNNNNNNNNNNNNNNNNNNNNNNNND=+++====++++++
-((~~---------~(+hNNNNNNBNNNNNNNBBBNNBBBNNNNNNNh=++====++++++
-((~~------~---(sNNNNNBDDDDBBBDDhhhhhhhDBNNNNNNBz+++===+++++=
-((~~----------<DNNNBDhzzzhDhz=++<<(((+shBNNNNNND=<<+++=++++=
-((~~--------'~sNNNBhs==+=ss+<~~--''.'-(<sDNNNNNNh+(<++==++++
-(~~--------''(hNNBhs+=+(<<(~~~-''....''-~sBNNNNNB=((<+===+++
-(~~---------'<hNNDz====<(~~~((--''...''''(zNNNNNBs((<==s==++
-((~~~~~~~~~--+DNBDzs==ss<~~~~~----'.'''''-<hNNNNBz<(+=ss===+
-((~~~~((((~~~=BNBhzzs=ss<~~(~-----''''''''~sBNNNND=<+ssss===
-(((((((((((~~sBNDhhz=+=+<~~~~-----''''''-'-<DNNNNBz==sssss==
-(((((((((~~~(sNNhzzs+<<<(--~~~--'''''''----(zBNNNBz==sssss==
-((((((((~~~~(sNNhzs=+<<((~''~~-'''''''-----~+DNNNBh==ss=ss==
-(((<<<(~~~~~(sBBzzzhhhzss+~'-~~'''''''----~~<hNNNBz==ss=====
-+<<<<<((((((<zBBzzhDBBBBBD=~~<+<(~~~-''----~<hBNNDz========+
-===++<<<<<<<<zNBszhhhDDBBBD=(=hDhhs+(~------<hBNNhs=sss===++
-s======+<<<<(sBBzszhzzzhDBBz+sDBBDs<~~------<hBNBh==zzs===++
-====s==++<<<(=DBzzhDhhhDDBB=(sBBDh=~''------<hBNBhsszzsss===
-======+<<<<<(sDDzzDBDDBBBBh('+DBBDz+~-------<hNNBzsssssss===
-++<<<<<((<((<hBhzhDDDhBBBD='.-=BBBDz=<(----~+DNNBzsssssssss=
-<<(((((~((~~+DDszhDhhhzss=~...'+DBhs+<~----~=BNNBzssssssszss
-(((~~~~~~(~~=DDszzs+<((+==~....'<ss+(-''--'~zBBhsssssssszzss
-<((((~~~((~~=Dhszs<-''~sh=-..'..'-~~-'''-'-(s=<((+ss==sszzs=
-<<<<<(((<<((=DDzzs<---<DB=- .'--'...'''''--<('.-+======sss==
-++++++++<<((=BBsszs<-~sBD='..'~(~''''-''---~-'.-=s==+++===++
-+<++++++++((=BBsszz=(+hDh=~'..(=+~'--~--'-~--<~-<==++++<++<<
-++++==++++(<sDDzszhs=zDDhz=<~'~=z+--~~~--~~''ss(-<s===+<<<<<
-+======+++<<=hhzszzzzDDDBDDDh<'(ss(~~((~~((''<z<-(ss===<<<<+
-ssszzss=++++=zhzszzhDDDBBBBBh<.'<s+~~(((((~-.'~--+zs++++<<<=
-zzzhzzzsssss=szzszhhhhDDDz=<-'..-+<~~(((((~'...'(sz=((<++++=
-zhhhzzzzzzzzs==szzhhzzhDh=(~-....~(~~~~~~~-.  .~shz<--~<ssss
-zzzzzzzzzzzzs==sszhhhhDBDz===+<~--~~-~~~---'.'~=DDs('''(szss
-zhhzzzzzzzzsss=ssszhDBBBBhsszhhhs<--~~~---(+<+shDDs~..'(szzs
-hhhhzzzzzhzzssssszzhDDDhh=(~(+shD=~-~~~--(zBDzzhhhs~..'(szzs
-hhhhhhhhhhhzss=sszzhhhhzss=+<--~++(~~~~--+DNDsszhh=~..'(szss
-hhhhhhhhhhhhzs==szzzhhhhhDBh+~''-(<<((~-~=BBz==zzz=~..'(szss
-hhhhhhhhhhhhzs===szzhhhDDhs+(~~~~(<+<((((zDDs==szz+~..'(=zss
-hhDDDhhhhhhhzzs===szhhDDz+~----~~(<++++<+hDzsssszz=~''-<=sss
-hhhhDhhhhhhhzzss=+=zzzhhs+~-'''~(<<+=zs(+hhsssszzzs(''~<ssss
-zhhhhhhhzhhzzzs=++shzzzhzz=+(-~(<+=shD+-sDzsssszzz=(-'~+ssss
-zzzhhhhzzzzzzzs++zDDhzhhhhhzs==szzDBD+.~hDsssssszz=(-'~<sss=
-zzzzszzzzsszss=+sDNBhhhhhhhDDDDDDBBB=..=Bhsss=+=zs<-''-(=ss=
-zss==sszsssss=+sDNNBhzzhhhDDDDDDBBBs- -hDzsss=++==<-..'(+===
-ss====sssss=++=BNNBNBhzzhhDDhhhDDh=(. <Dhzssszs+<+(-..'~<++=
-ss=+===sss=+<+hNNBBNBDzzzhhhhhDDs<+<.'zDzss=sDh<(<('..'-(<<=
-s===ssssss=<<zNNNBBNNBhzzhhhhDhs((=(.<Dhss==hBz(~<(-..'-~(<=
-ssszzzzzzs=<+DNNNBBBNNDhhhhDDDz<~<+-'hDzss=zBBs((<<~'..'-(<=
-sszzzzzzss=+=BNNNBBBNNBDhhDDDhs((=(.(BDzsszDBD=~(<<<~''--(<s
-szzzzzzss=++zBNNNNBBNNBBDDDBDz=<(+-.=Bhs=shBBh+~(<<<<(-~~~<s
+                                                               
+||   / |  / /                                                  
+||  /  | / /  ___     //  ___      ___      _   __      ___    
+|| / /||/ / //___) ) // //   ) ) //   ) ) // ) )  ) ) //___) ) 
+||/ / |  / //       // //       //   / / // / /  / / //        
+|  /  | / ((____   // ((____   ((___/ / // / /  / / ((____     

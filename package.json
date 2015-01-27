@@ -1,6 +1,6 @@
 {
     "name": "lovenote",
-    "version": "0.1.5",
+    "version": "1.0.0",
     "description": "add some comment to your js file.",
     "main": "index.js",
     "bin": {
