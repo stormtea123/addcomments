@@ -1,17 +1,17 @@
 {
-    "name": "lovenote",
+    "name": "addcomments",
     "version": "1.0.0",
-    "description": "add some comment to your js file.",
+    "description": "add some comments to your js file.",
     "main": "index.js",
     "bin": {
-      "lovenote": "index.js"
+      "addcomments": "index.js"
     },
     "scripts": {
         "test": "node index.js test.js"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/stormtea123/lovenote.git"
+        "url": "https://github.com/stormtea123/addcomments.git"
     },
     "author": "stormte@gmail.com",
     "dependencies": {
@@ -19,7 +19,7 @@
     },
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/stormtea123/lovenote/issues"
+        "url": "https://github.com/stormtea123/addcomments/issues"
     },
-    "homepage": "https://github.com/stormtea123/lovenote"
+    "homepage": "https://github.com/stormtea123/addcomments"
 }

@@ -1,11 +1,11 @@
-lovenote
+addcomments
 =========
-npm模块，对脚本加注释
+add some comments to your js file
 
 ##Install
 
 ```
-npm install -g lovenote
+npm install -g addcomments
 ```
 
 ##How to use it
@@ -13,6 +13,17 @@ npm install -g lovenote
 If you want to increase Description to `file.js` , you can to do so below
 
 ```
-lovenote file.js
+addcomments file.js
 ```
+
+`file.js` will add
+
+    //                                                                
+    // ||   / |  / /                                                  
+    // ||  /  | / /  ___     //  ___      ___      _   __      ___    
+    // || / /||/ / //___) ) // //   ) ) //   ) ) // ) )  ) ) //___) ) 
+    // ||/ / |  / //       // //       //   / / // / /  / / //        
+    // |  /  | / ((____   // ((____   ((___/ / // / /  / / ((____     
+    // 
+
 
